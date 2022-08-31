@@ -13,17 +13,7 @@
 <h4> -> Our Index finger can be used to move the mouse over the screen.</h4>
 <h4> -> When Our Index finger and Thumb come close to each other or touch each other then it performs the click operation.</h4>
 <h4> -> And the PyautoGUI for programmitaclly control the mouse and keyboard.</h4>
-<h1>Checkout the Demo Below : 👇</h1>
-<h4>At First The mouse pointer movement is very bad and horrible to see so, I have added a **smoothening** factor that makes the mouse pointer move like a feather. </h4>
 
-```python
-smoothening = 9
-clocx = plocx + (index_x - plocx) /smoothening
-clocy = plocy + (index_y - plocy) /smoothening
-# you can multiply or divide with the smotthening
-```
-
-<video controls autplay muted src="https://user-images.githubusercontent.com/95229816/186448935-4ab29a18-92eb-4e71-ad99-fd8970ee12d6.mp4" />
 
 <h2>Now coming to the code part </h2>
 The Libraries that need to be installed are written in the requirements.txt file
@@ -50,3 +40,15 @@ pip install PIL
 ### The actual working of the mouse is based on the Hand Landmarks which can be viewed and controlled by opencv and mediapipe.
 ### Our hand contains a total of 21 landmarks.
 ![hand_landmarks](https://user-images.githubusercontent.com/95229816/186465439-9253c685-9561-474d-aa79-5e5baa874256.png)
+
+<h1>Checkout the Demo Below : 👇</h1>
+<h4>At First The mouse pointer movement is very bad and horrible to see so, I have added a **smoothening** factor that makes the mouse pointer move like a feather. </h4>
+
+```python
+smoothening = 9
+clocx = plocx + (index_x - plocx) /smoothening
+clocy = plocy + (index_y - plocy) /smoothening
+# you can multiply or divide with the smotthening
+```
+
+<video controls autplay muted src="https://user-images.githubusercontent.com/95229816/186448935-4ab29a18-92eb-4e71-ad99-fd8970ee12d6.mp4" />
