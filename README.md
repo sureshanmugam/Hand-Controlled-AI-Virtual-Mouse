@@ -23,10 +23,10 @@ clocy = plocy + (index_y - plocy) /smoothening
 # you can multiply or divide with the smotthening
 ```
 
-<!-- <video controls autplay muted src="https://user-images.githubusercontent.com/95229816/186448935-4ab29a18-92eb-4e71-ad99-fd8970ee12d6.mp4" /> -->
+<video controls autplay muted src="https://user-images.githubusercontent.com/95229816/186448935-4ab29a18-92eb-4e71-ad99-fd8970ee12d6.mp4" />
 
 <h2>Now coming to the code part </h2>
-The Libraries that need to be installed are written in the [`requirements.txt`](https://github.com/bharathguntreddi3/Hand-Controlled-AI-Virtual-Mouse/blob/master/requirements.txt) file
+The Libraries that need to be installed are written in the requirements.txt file
 
 ```text
 opencv-python - 4.6.0.66
