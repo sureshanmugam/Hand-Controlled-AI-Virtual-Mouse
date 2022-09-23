@@ -52,3 +52,7 @@ clocy = plocy + (index_y - plocy) /smoothening
 ```
 
 <video controls autplay muted src="https://user-images.githubusercontent.com/95229816/186448935-4ab29a18-92eb-4e71-ad99-fd8970ee12d6.mp4" />
+
+<h3>If any necessary commits are required to increase the elegance of this repo! i'm always open for a PR.</h3>
+
+### <h2>With this signing off..!!,BHARATH GUNTREDDI ..🤞</h2>
