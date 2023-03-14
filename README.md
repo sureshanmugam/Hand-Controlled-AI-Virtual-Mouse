@@ -12,7 +12,7 @@
 <h4> -> Our Hand Controlled Virtual mouse can able to move the mouse anywhere on the screen and can able to perform the click operation.</h4>
 <h4> -> Our Index finger can be used to move the mouse over the screen.</h4>
 <h4> -> When Our Index finger and Thumb come close to each other or touch each other then it performs the click operation.</h4>
-<h4> -> And the PyautoGUI for programmitaclly control the mouse and keyboard.</h4>
+<h4> -> And the PyautoGUI for programmatically control the mouse and keyboard.</h4>
 
 
 <h2>Now coming to the code part </h2>
