@@ -1,5 +1,5 @@
 <h1 align=center>Hand-Controlled-AI-Virtual-Mouse 🖱️👆</h1>
-<h2 align=center>Version : 3.0.0.3</h2>
+<h2 align=center>Version : 1.0.0.1</h2>
 <!--This is an AI based Virtual Mouse controlled by our hand gestures and hand detection.-->
 
 <img src="https://user-images.githubusercontent.com/95229816/185941431-83ba8fc6-0863-4a9b-a8ef-9908a29bd9ba.png">
