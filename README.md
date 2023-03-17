@@ -1,5 +1,5 @@
 <h1 align=center>Hand-Controlled-AI-Virtual-Mouse 🖱️👆</h1>
-<h2 align=center>Version : 3.0.0.3</h2>
+<h2 align=center>Version : 1.0.0.1</h2>
 <!--This is an AI based Virtual Mouse controlled by our hand gestures and hand detection.-->
 
 <img src="https://user-images.githubusercontent.com/95229816/185941431-83ba8fc6-0863-4a9b-a8ef-9908a29bd9ba.png">
@@ -12,7 +12,7 @@
 <h4> -> Our Hand Controlled Virtual mouse can able to move the mouse anywhere on the screen and can able to perform the click operation.</h4>
 <h4> -> Our Index finger can be used to move the mouse over the screen.</h4>
 <h4> -> When Our Index finger and Thumb come close to each other or touch each other then it performs the click operation.</h4>
-<h4> -> And the PyautoGUI for programmitaclly control the mouse and keyboard.</h4>
+<h4> -> And the PyautoGUI for programmatically control the mouse and keyboard.</h4>
 
 
 <h2>Now coming to the code part </h2>
